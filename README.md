@@ -400,9 +400,9 @@ pytest
 
 # 👨‍💻 Author
 
-## RISHI
+## DAYAKAR
 
-Full Stack Developer • Python Developer • Data Analyst
+Full Stack Developer • Python Developer • AI Enthusiast
 
 ---
 
